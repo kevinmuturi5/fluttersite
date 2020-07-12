@@ -1,0 +1,1040 @@
+[
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Sports shoe",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "yfuyyuylljLJVLA",
+    "price": 576,
+    "bedrooms": 8,
+    "bathrooms": "0.6",
+    "garage": 3,
+    "sqft": 4,
+    "lot_size": "68.0",
+    "photo_main": "photos/2020/03/22/showcase_ndtY1vi.jpg",
+    "photo_1": "photos/2020/03/22/about.jpg",
+    "photo_2": "photos/2020/03/22/building.jpg",
+    "photo_3": "photos/2020/03/22/123.jpg",
+    "photo_4": "photos/2020/03/22/cv_inverted.png",
+    "photo_5": "photos/2020/03/22/download.png.jfif",
+    "photo_6": "photos/2020/03/22/kkk.jpeg",
+    "is_published": true,
+    "list_date": "2020-03-22T19:04:47Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Psychology",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "jkyhu9",
+    "price": 57687,
+    "bedrooms": 1,
+    "bathrooms": "0.1",
+    "garage": 1,
+    "sqft": 2,
+    "lot_size": "0.1",
+    "photo_main": "photos/2020/03/23/20200323_2104381.gif",
+    "photo_1": "",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-03-23T20:46:08Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Gamings app",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "With login and registration",
+    "price": 23,
+    "bedrooms": 6,
+    "bathrooms": "6.0",
+    "garage": 0,
+    "sqft": 0,
+    "lot_size": "90.0",
+    "photo_main": "photos/2020/04/23/IMG-20200205-WA0027.jpg",
+    "photo_1": "photos/2020/04/23/IMG-20200115-WA0010.jpg",
+    "photo_2": "photos/2020/04/23/IMG-20200123-WA0013.jpg",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-04-23T19:18:56Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "banking app",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "Have money management care",
+    "price": 3,
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "garage": 0,
+    "sqft": 3,
+    "lot_size": "33.0",
+    "photo_main": "photos/2020/04/23/IMG-20200115-WA0010_QYcuWIK.jpg",
+    "photo_1": "photos/2020/04/23/IMG-20200102-WA0008.jpg",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-04-23T19:22:57Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Dating app",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "Have sms integration",
+    "price": 4,
+    "bedrooms": 4,
+    "bathrooms": "4.0",
+    "garage": 4,
+    "sqft": 4,
+    "lot_size": "4.0",
+    "photo_main": "photos/2020/04/23/IMG-20200115-WA0011.jpg",
+    "photo_1": "photos/2020/04/23/IMG-20200119-WA0021.jpg",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-04-23T19:50:01Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Tinder clone",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "dating app",
+    "price": 4,
+    "bedrooms": 3,
+    "bathrooms": "3.0",
+    "garage": 0,
+    "sqft": 333,
+    "lot_size": "3.0",
+    "photo_main": "photos/2020/04/23/IMG-20200227-WA0000.jpg",
+    "photo_1": "photos/2020/04/23/IMG-20191223-WA0006.jpg",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-04-23T19:53:44Z"
+  }
+},
+{
+  "model": "listings.listing",
+  "fields": {
+    "realtor": 1,
+    "title": "Whatsup clone",
+    "address": "0715628480",
+    "city": "nairobi",
+    "state": "Nairobi Municipality",
+    "zipcode": "1675",
+    "description": "All functionality of  whatsp app",
+    "price": 22,
+    "bedrooms": 2,
+    "bathrooms": "2.0",
+    "garage": 0,
+    "sqft": 2,
+    "lot_size": "2.0",
+    "photo_main": "photos/2020/04/23/IMG-20200118-WA0001.jpg",
+    "photo_1": "photos/2020/04/23/IMG-20200119-WA0021_Wn6w4ar.jpg",
+    "photo_2": "",
+    "photo_3": "",
+    "photo_4": "",
+    "photo_5": "",
+    "photo_6": "",
+    "is_published": true,
+    "list_date": "2020-04-23T19:56:27Z"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 1,
+  "fields": {
+    "name": "kevin muturi",
+    "photo": "photos/2020/03/22/showcase.jpg",
+    "description": "fjtjygkjkjjl;lk;n mm",
+    "phone": "+254715628480",
+    "email": "kevinmuturu5@gmail.com",
+    "is_mvp": true,
+    "hire_date": "2020-03-22T19:07:12Z"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 1,
+  "fields": {
+    "listing": "0715628480",
+    "listing_id": 1,
+    "name": "kevin muturi",
+    "email": "kevin@gmail.com",
+    "phone": "+254715628480",
+    "message": "",
+    "contact_date": "2020-03-24T12:07:37.845Z",
+    "user_id": 1
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 2,
+  "fields": {
+    "listing": "0715628480",
+    "listing_id": 1,
+    "name": "kevin muturi",
+    "email": "kevinmuturu5@gmail.com",
+    "phone": "+254715628480",
+    "message": "jhiojoj",
+    "contact_date": "2020-03-24T18:18:43.015Z",
+    "user_id": 0
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "listings",
+    "model": "listing"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "realtors",
+    "model": "realtor"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contacts",
+    "model": "contact"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "account",
+    "model": "emailaddress"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "account",
+    "model": "emailconfirmation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialaccount"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialapp"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialtoken"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1l9xm4n2aokbg1ypb8h8xn3dmquxvuvw",
+  "fields": {
+    "session_data": "MDRjMjI1NTUzZjM0YTA4NTdiYzUyYjI1ZmMwOTA1ZGM3ODMxNmZmMDp7Il9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMCwiX2F1dGhfdXNlcl9pZCI6IjQiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjI2ODhhZTc5ODA3NWNkYTExMThiNmU5NTgyMDhjZjMyYjM2MjFjNTgifQ==",
+    "expire_date": "2020-05-23T13:33:33.520Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mrcldnw7gzp0a3ji1o0c4cj7fqwz7t4p",
+  "fields": {
+    "session_data": "ZThkMDAyZjQ2MTA5MjI4NGEyMjYyNDk2NTZkZTk3ZDFkZDhhZmUwNTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhNDRkNDljN2Q0YWY0Y2RhY2Y0M2IyMjE4YThjNDQ2MGZlZmY4ODYwIn0=",
+    "expire_date": "2020-04-06T08:19:28.775Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qkm59kb1oo9x4jk02zcwpie7b9gl5l9x",
+  "fields": {
+    "session_data": "ZThkMDAyZjQ2MTA5MjI4NGEyMjYyNDk2NTZkZTk3ZDFkZDhhZmUwNTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhNDRkNDljN2Q0YWY0Y2RhY2Y0M2IyMjE4YThjNDQ2MGZlZmY4ODYwIn0=",
+    "expire_date": "2020-04-05T16:04:29.362Z"
+  }
+},
+{
+  "model": "sites.site",
+  "fields": {
+    "domain": "example.com",
+    "name": "example.com"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add listing",
+    "content_type": 1,
+    "codename": "add_listing"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change listing",
+    "content_type": 1,
+    "codename": "change_listing"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete listing",
+    "content_type": 1,
+    "codename": "delete_listing"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view listing",
+    "content_type": 1,
+    "codename": "view_listing"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add realtor",
+    "content_type": 2,
+    "codename": "add_realtor"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change realtor",
+    "content_type": 2,
+    "codename": "change_realtor"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete realtor",
+    "content_type": 2,
+    "codename": "delete_realtor"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view realtor",
+    "content_type": 2,
+    "codename": "view_realtor"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add contact",
+    "content_type": 3,
+    "codename": "add_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change contact",
+    "content_type": 3,
+    "codename": "change_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete contact",
+    "content_type": 3,
+    "codename": "delete_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view contact",
+    "content_type": 3,
+    "codename": "view_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 4,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 4,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 4,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 4,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 5,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 5,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 5,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 5,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add group",
+    "content_type": 6,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change group",
+    "content_type": 6,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 6,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view group",
+    "content_type": 6,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user",
+    "content_type": 7,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user",
+    "content_type": 7,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 7,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view user",
+    "content_type": 7,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 8,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 8,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 8,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 8,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add session",
+    "content_type": 9,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change session",
+    "content_type": 9,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 9,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view session",
+    "content_type": 9,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add site",
+    "content_type": 10,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change site",
+    "content_type": 10,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 10,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view site",
+    "content_type": 10,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add email address",
+    "content_type": 11,
+    "codename": "add_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change email address",
+    "content_type": 11,
+    "codename": "change_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete email address",
+    "content_type": 11,
+    "codename": "delete_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view email address",
+    "content_type": 11,
+    "codename": "view_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add email confirmation",
+    "content_type": 12,
+    "codename": "add_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change email confirmation",
+    "content_type": 12,
+    "codename": "change_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete email confirmation",
+    "content_type": 12,
+    "codename": "delete_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view email confirmation",
+    "content_type": 12,
+    "codename": "view_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add social account",
+    "content_type": 13,
+    "codename": "add_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change social account",
+    "content_type": 13,
+    "codename": "change_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete social account",
+    "content_type": 13,
+    "codename": "delete_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view social account",
+    "content_type": 13,
+    "codename": "view_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add social application",
+    "content_type": 14,
+    "codename": "add_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change social application",
+    "content_type": 14,
+    "codename": "change_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete social application",
+    "content_type": 14,
+    "codename": "delete_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view social application",
+    "content_type": 14,
+    "codename": "view_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add social application token",
+    "content_type": 15,
+    "codename": "add_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change social application token",
+    "content_type": 15,
+    "codename": "change_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete social application token",
+    "content_type": 15,
+    "codename": "delete_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view social application token",
+    "content_type": 15,
+    "codename": "view_socialtoken"
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$yNkp9agHMAHG$y7gq6fZaD6Nqkd/yUy2Gj2pHa9J47KXcKdbmh/I7N5U=",
+    "last_login": "2020-04-23T16:16:27.674Z",
+    "is_superuser": true,
+    "username": "kevin",
+    "first_name": "",
+    "last_name": "",
+    "email": "kevin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-03-22T16:04:15.456Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$tXK6owNWD5DG$FqoYkuuAypF8dq4LrPuLr4AlZv7s0pg79ms3B9sj//8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "gatehi",
+    "first_name": "",
+    "last_name": "",
+    "email": "egatehi@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-05-09T11:35:19.630Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$IDMAdlekfVdA$XPNumF/I0ebaLrB91ACCNLoClHbxnFMgr5YQCvR9I+Q=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "taisy",
+    "first_name": "",
+    "last_name": "",
+    "email": "taisy@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-05-09T11:39:02.832Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$DgVWfrhJUYUR$pwqQ8KwPCUwaifKONwf3zA57m4w2uxcQDIjg25UVvIU=",
+    "last_login": "2020-05-09T13:33:33.413Z",
+    "is_superuser": false,
+    "username": "darius",
+    "first_name": "",
+    "last_name": "",
+    "email": "darius@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-05-09T11:57:57.820Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "account.emailaddress",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "email": "kevin@gmail.com",
+    "verified": false,
+    "primary": false
+  }
+},
+{
+  "model": "account.emailaddress",
+  "pk": 2,
+  "fields": {
+    "user": 4,
+    "email": "darius@gmail.com",
+    "verified": false,
+    "primary": true
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2020-03-22T16:07:50.124Z",
+    "user": 1,
+    "content_type": 2,
+    "object_id": "1",
+    "object_repr": "kevin muturi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2020-03-22T16:09:00.559Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "Sports shoe",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2020-03-23T18:06:27.342Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "2",
+    "object_repr": "Psychology",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2020-04-23T16:22:23.011Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Gamings app",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2020-04-23T16:25:32.648Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "banking app",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2020-04-23T16:52:03.933Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "5",
+    "object_repr": "Dating app",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2020-04-23T16:55:23.645Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "6",
+    "object_repr": "Tinder clone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2020-04-23T16:58:32.928Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Whatsup clone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+}
+]

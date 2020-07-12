@@ -1,0 +1,86 @@
+{% extends 'base.html' %} 
+
+{% load humanize %}
+
+{% block title %} | Welcome {% endblock %}
+
+{% block content %}
+<!-- Showcase -->
+<form action="{% url 'search' %}" class="search">
+            <input type="text" class="search__input" placeholder="Search" name="keywords">
+            <button class="search__button" type="submit">
+                <svg class="search__icon">
+                    <use xlink:href="img/sprite.svg#icon-magnifying-glass"></use>
+                </svg>
+            </button>
+        </form>
+<br>
+  <!-- Alerts -->
+  {% include 'partials/_alerts.html' %}
+
+  <!-- Listings -->
+  <section id="listings" class="py-5">
+    <div class="container">
+      <h3 class="text-center mb-3">Latest Themes</h3>
+      <div class="row">
+        {% if listings %}
+          {% for listing in listings %}
+            <!-- Listing 1 -->
+            <div class="col-md-6 col-lg-4 mb-4">
+              <div class="card listing-preview">
+                <img class="card-img-top" src="{{ listing.photo_main.url }}" alt="">
+                <div class="card-img-overlay">
+                  <h2>
+                    <span class="badge badge-secondary text-white">${{ listing.price | intcomma }}</span>
+                  </h2>
+                  <h4 class="text-primary">{{ listing.title }}</h4>
+
+                </div>
+                <div class="card-body">
+                  <div class="listing-heading text-center">
+                  </div>
+                  <hr>
+                  <a href="{% url 'listing' listing.id %}" class="btn btn-primary btn-block">preview</a>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        {% else %}
+          <div class="col-md-12">
+            <p>No Listings Available</p>
+          </div>
+        {% endif %}
+
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="py-5 bg-secondary text-black">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-md-4">
+          <i class="fas fa-comment fa-4x mr-4"></i>
+          <hr>
+          <h3>Consulting Services</h3>
+          <p>We help you debug your flutter code for free and advice you about your unsure codes and help showcase your work</p>
+        </div>
+        <div class="col-md-4">
+          <i class="fas fa-home fa-4x mr-4"></i>
+          <hr>
+          <h3>Hire Us</h3>
+          <p>We give you absolutely free Themes and give you an advantage of hiring us to integrate your theme backend.kinndly send us your qoute</p>
+        </div>
+        <div class="col-md-4">
+          <i class="fas fa-suitcase fa-4x mr-4"></i>
+          <hr>
+          <h3>Join Us</h3>
+          <p>Send us your precise resume with enough experience in flutter to become one of our team.</p>
+        </div>
+        <h1>kyuky</h1>
+        <span>kjuk</span>
+        <h1>jgkg</h1>
+      </div>
+      
+    </div>
+  </section>
+{% endblock %}
