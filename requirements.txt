@@ -44,5 +44,5 @@ stripe==2.44.0
 tornado==6.0.4
 twilio==6.37.0
 typing==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 whitenoise==5.0.1
